@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"K3,K1";"easyC-connector";2;"easyC-SMD";;;
+2;"H3,H1,H2,H4";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+3;"U3";"SOIC-14";1;"ATTINY404-SSNR";;;
+4;"K2";"HEADER-UPDI";1;"HEADER-UPDI";;;
+5;"D1";"0402LED";1;"Purple";;;
+6;"K4";"DSHP03TS-S";1;"DSHP03TS-S";;;
+7;"C3";"0603C";1;"100n";;;
+8;"R1";"0402R";1;"2k2";;;
+9;"K5";"PIR_senzor_kapica";1;"PIR_lens";;;
+10;"U2";"PIR_senzor";1;"AM312";;;

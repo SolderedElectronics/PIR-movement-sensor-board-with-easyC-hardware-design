@@ -1,0 +1,5 @@
+SKU: 333179
+Full product name: PIR Movement sensor board with easyC
+Country of origin: Croatia
+HS tariff code: 90318000
+EAN/UPC barcode: 732388663002
